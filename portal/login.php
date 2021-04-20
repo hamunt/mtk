@@ -9,7 +9,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
-    <title>MTK2</title>
+    <title>MTK Tours and Travel</title>
     <link rel="icon" type="image/jpeg" sizes="400x400" href="../assets/img/logo.jpg">
     <link rel="icon" type="image/jpeg" sizes="400x400" href="../assets/img/logo.jpg">
     <link rel="stylesheet" href="../assets/bootstrap/css/bootstrap.min.css">
@@ -54,10 +54,10 @@
 
 <body>
     <nav class="navbar navbar-light navbar-expand-md navigation-clean-search" style="background: rgb(255, 255, 255);opacity: 0.91;">
-        <div class="container"><a class="navbar-brand" href="../index.html"></a><button data-toggle="collapse" class="navbar-toggler" data-target="#navcol-1"><span class="sr-only">Toggle navigation</span><span class="navbar-toggler-icon"></span></button>
+        <div class="container"><a class="navbar-brand" href="../index.php"></a><button data-toggle="collapse" class="navbar-toggler" data-target="#navcol-1"><span class="sr-only">Toggle navigation</span><span class="navbar-toggler-icon"></span></button>
             <div class="collapse navbar-collapse text-uppercase" id="navcol-1">
                 <ul class="navbar-nav">
-                    <li class="nav-item"><a class="nav-link active text-center" href="../index.html" target="_top">Home</a></li>
+                    <li class="nav-item"><a class="nav-link active text-center" href="../index.php" target="_top">Home</a></li>
                 </ul>
                 <form class="form-inline mr-auto" target="_self">
                     <div class="form-group"><label for="search-field"></label></div>
